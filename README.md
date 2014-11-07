@@ -4,8 +4,8 @@ result-set-unmarshaller
 Shorter way to copy the output result set into the Java beans
 
 <p>Define factory class object<br/>
-//filled result set java.sql.ResultSet 
 <pre><code>
+//filled result set java.sql.ResultSet 
 resultSet; 
 UnmarshallerFactory factory = new UnmarshallerFactory();
 </code></pre>
