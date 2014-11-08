@@ -18,7 +18,7 @@ if result would be a single row instantiate the Model class
 <pre><code>
 Model model=mtype.getModel();
 </code></pre>
-else result would contain multiple rows 
+else result may contain multiple rows 
 <pre><code>
 ListModel listModel=mtype.getListModel();
 </code></pre>
