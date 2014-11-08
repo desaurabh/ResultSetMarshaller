@@ -22,7 +22,7 @@ else result may contain multiple rows
 <pre><code>
 ListModel listModel=mtype.getListModel();
 </code></pre>
-Now you have the constructed result as well as  json 
+Now you have the constructed result as well as  json string
 <pre><code>
 YourDomain yd=(YourDomain) model.populateModel(YourDomain.class);
 //or
