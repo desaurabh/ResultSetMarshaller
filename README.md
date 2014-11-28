@@ -1,4 +1,4 @@
-result-set-unmarshaller
+ResultSetMarshaller
 =======================
 
 Shorter way to copy the output result set into the Java beans
